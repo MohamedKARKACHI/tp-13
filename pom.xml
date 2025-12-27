@@ -95,4 +95,11 @@
             </plugin>
         </plugins>
     </build>
+
+    <developers>
+        <developer>
+            <id>karkachi</id>
+            <name>Karkachi Mohamed</name>
+        </developer>
+    </developers>
 </project>
